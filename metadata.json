@@ -1,0 +1,7 @@
+{
+  "name": "Utsifu AI Agency",
+  "description": "A high-performance AI automation agency landing page showcasing fluid animations, low-cost self-hosted AI solutions, and interactive Gemini-powered consultations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
